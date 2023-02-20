@@ -44,5 +44,5 @@ def __help__(switch=None):
     '''}
     return help.get(switch, help[None])
 
-__welcome__ = 'Welcome to File Encryption Tool.'
+__welcome__ = 'Welcome to Crypto Dragon.'
 __version__ = '1.0.0'
