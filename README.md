@@ -1,2 +1,2 @@
-# File-Encryption-Tool
-Run the command python main.py --help in the project path to get help.
+#dragon encryption
+برای دریافت کمک، دستور python main.py --help را در مسیر پروژه اجرا کنی.
